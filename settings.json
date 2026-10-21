@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "T4X Bot",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "T4XNetwork.aternos.me",
+    "port": 39060,
     "version": "1.21.1"
   },
   "position": {
@@ -56,7 +56,7 @@
       "enabled": true,
       "interval": 5000
     },
-    "random-jump": {
+    "random-jump": true, 
       "enabled": true,
       "interval": 10000
     }
